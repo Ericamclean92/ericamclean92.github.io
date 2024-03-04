@@ -1,3 +1,5 @@
+## Data Analyst / Business Analyst
+
 ### Education
 Apr 2023 – Current • BSc in Data Science and Business Analytics • London School of Economics and Political Science
 - Focusing on solve interdisciplinary problems and make strategic, clearly reasoned decisions using data
