@@ -1,8 +1,9 @@
-#Testing
-
+# Import Librariees
 import panda as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
 
-# Data Import
- 
-credit_data= pd.read_csv("UCI_credit_card.csv")
+# Read Database 
+credit_data= pd.read_csv("Python - Credit Risk Model/UCI_Credit_Card.csv")
 credit_Data.head()
