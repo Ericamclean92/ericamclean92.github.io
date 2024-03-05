@@ -6,4 +6,5 @@ import matplotlib.pyplot as plt
 
 # Read Database 
 credit_data= pd.read_csv("Python - Credit Risk Model/UCI_Credit_Card.csv")
-credit_Data.head()
+print (credit_Data.head())
+
