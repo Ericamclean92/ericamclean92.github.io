@@ -6,7 +6,7 @@ Welcome to my journey into the realm of credit risk modeling. In this portfolio,
 The dataset was obtained from Kaggle, a platform for sharing and discovering datasets and data science projects. The "Default of Credit Card Clients Dataset" contains information on credit card clients in Taiwan from April 2005 to September 2005. It comprises 25 variables, including demographic factors, credit data, and payment history.
 [Source: https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset]
 
-## Data Preprocessing:
+## Importing the libraries and database:
 
 
 By meticulously preparing the dataset through these preprocessing steps, I ensured that it was ready for in-depth analysis and modeling to uncover insights into credit risk dynamics.
